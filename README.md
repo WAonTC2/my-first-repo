@@ -1,1 +1,2 @@
-# My First GITHUB Project
+  # My First GITHUB Project
+## Learning GITHUB is awesome
